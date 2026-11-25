@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-11-25 00:00">
+  <shop>
+    <name>ReverseFit</name>
+    <company>ReverseFit</company>
+    <url>https://reversefit.ru/</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories><category id="1">Домашние тренировки</category></categories>
+    <offers>
+      <offer id="reversefit-ad-return-190" available="true">
+        <url>https://reversefit.ru/vopros</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/ruslan-samurai/yandex-feed-images/a03554697b9071ec78c940bd29aa575434d754ef/reversefit-2026-11-24/cozy-start.png</picture>
+        <name>Давно не тренировались? Начните с фитнеса у себя дома</name>
+        <vendor>ReverseFit</vendor>
+        <description>На ReverseFit есть домашние тренировки для тех, кто возвращается после перерыва.</description>
+      </offer>
+      <offer id="reversefit-ad-weight-190" available="true">
+        <url>https://reversefit.ru/vopros</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/ruslan-samurai/yandex-feed-images/a03554697b9071ec78c940bd29aa575434d754ef/reversefit-2026-11-24/home-workout.png</picture>
+        <name>Хотите снизить вес? Начните с тренировок дома по плану</name>
+        <vendor>ReverseFit</vendor>
+        <description>Домашние занятия от 7 до 32 минут. Программа подбирается под вашу цель и опыт.</description>
+      </offer>
+      <offer id="reversefit-ad-fitness-190" available="true">
+        <url>https://reversefit.ru/vopros</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/ruslan-samurai/yandex-feed-images/a03554697b9071ec78c940bd29aa575434d754ef/reversefit-2026-11-24/fitness-reversefit.png</picture>
+        <name>Домашний фитнес для женщин: пилатес, зарядка и силовые</name>
+        <vendor>ReverseFit</vendor>
+        <description>ReverseFit - платформа домашних тренировок. В одном кабинете 7 программ для женщин.</description>
+      </offer>
+      <offer id="reversefit-ad-gentle-190" available="true">
+        <url>https://reversefit.ru/vopros</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/ruslan-samurai/yandex-feed-images/a03554697b9071ec78c940bd29aa575434d754ef/reversefit-2026-11-24/stretch-seven-minutes.png</picture>
+        <name>Хотите вернуться к занятиям? Начните с мягкого фитнеса</name>
+        <vendor>ReverseFit</vendor>
+        <description>Мягкий фитнес дома: плавные упражнения и облегчённые варианты для начала занятий.</description>
+      </offer>
+      <offer id="reversefit-ad-month-190" available="true">
+        <url>https://reversefit.ru/vopros</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/ruslan-samurai/yandex-feed-images/a03554697b9071ec78c940bd29aa575434d754ef/reversefit-2026-11-24/home-workout-2.png</picture>
+        <name>Домашние тренировки со скидкой 39% на первый месяц</name>
+        <vendor>ReverseFit</vendor>
+        <description>В подписку входят все программы ReverseFit: от короткой зарядки до силовых занятий.</description>
+      </offer>
+      <offer id="reversefit-ad-week-190" available="true">
+        <url>https://reversefit.ru/vopros</url>
+        <price>190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/ruslan-samurai/yandex-feed-images/a03554697b9071ec78c940bd29aa575434d754ef/reversefit-2026-11-24/fitness-five-minutes.png</picture>
+        <name>Домашний фитнес: все программы на первые 7 дней за 190 ₽</name>
+        <vendor>ReverseFit</vendor>
+        <description>Первые 7 дней дают доступ ко всем программам: пилатесу, зарядке и силовым занятиям.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
